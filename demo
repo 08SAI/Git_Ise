@@ -1,1 +1,5 @@
 This is a demo file in order to demostrate the starting og Git.
+The basic commands:
+git commit
+git log
+git ignore
